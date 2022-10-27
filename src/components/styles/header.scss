@@ -1,0 +1,16 @@
+.header {
+  background-color: tomato;
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 1rem;
+
+    li {
+      background-color: white;
+      padding: 0.75rem 1.5rem;
+    }
+  }
+}
